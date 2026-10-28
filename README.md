@@ -20,6 +20,8 @@ The following repository is a clean and efficient application of the publicly av
 Task2_155546/
 ├── README.md
 ├── environment.yml    # Conda environment for the Python notebooks
+├── AI_use_statement.docx
+├── Task2_presentation.pdf
 │
 ├── data/                                     # All input data sourced from berenslab/mini-atlas repository 
 │   ├── m1_patchseq_meta_data.csv             # Metadata 
