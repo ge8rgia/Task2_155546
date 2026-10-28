@@ -44,4 +44,5 @@ git clone <repo-url> Task2_155546
 cd Task2_155546
 
 conda env create -f environment.yml
+conda activate task_env
 ```
